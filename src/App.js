@@ -56,7 +56,7 @@ function App() {
     <div className="App">
       <h1>Built with React useState / useEffect hooks and API calls.</h1>
       <p>Based on <a href="https://www.youtube.com/watch?v=XN5elYWiSuw&ab_channel=WebDevSimplified" target="_blank">this web tutorial</a>. </p>
-      <p><a href="" target="_blank">See code here:</a></p>
+      <p><a href="https://github.com/StephenNoh/currencyconverter" target="_blank">See code here:</a></p>
       <hr/>
       <h1>Convert your currency:</h1>
       <CurrencyRow 
