@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/currencyconverter/static/css/main.36904f70.chunk.css",
+    "main.js": "/currencyconverter/static/js/main.af7e29e2.chunk.js",
+    "main.js.map": "/currencyconverter/static/js/main.af7e29e2.chunk.js.map",
+    "runtime-main.js": "/currencyconverter/static/js/runtime-main.a977116a.js",
+    "runtime-main.js.map": "/currencyconverter/static/js/runtime-main.a977116a.js.map",
+    "static/js/2.e9394231.chunk.js": "/currencyconverter/static/js/2.e9394231.chunk.js",
+    "static/js/2.e9394231.chunk.js.map": "/currencyconverter/static/js/2.e9394231.chunk.js.map",
+    "index.html": "/currencyconverter/index.html",
+    "precache-manifest.c71aa12792dd1fb0a27f47cc0e8ac24a.js": "/currencyconverter/precache-manifest.c71aa12792dd1fb0a27f47cc0e8ac24a.js",
+    "service-worker.js": "/currencyconverter/service-worker.js",
+    "static/css/main.36904f70.chunk.css.map": "/currencyconverter/static/css/main.36904f70.chunk.css.map",
+    "static/js/2.e9394231.chunk.js.LICENSE.txt": "/currencyconverter/static/js/2.e9394231.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a977116a.js",
+    "static/js/2.e9394231.chunk.js",
+    "static/css/main.36904f70.chunk.css",
+    "static/js/main.af7e29e2.chunk.js"
+  ]
+}
